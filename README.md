@@ -64,15 +64,10 @@ The performance of four machine learning models—Logistic Regression, K-Nearest
 
 slightly imbalanced dataset. 
 
-
-## Future Directions
-
-Aim to get more records of patient data in order to make the model more robust.
-
 ## Recommendations:
 
-**Feature Selection**: Given the importance of features such as Polydipsia, Polyuria, and Gender, focus on collecting and refining data related to these attributes to enhance the predictive power of the model. 
-**Model Tuning**: Continue fine-tuning the logistic regression model with different regularization parameters to find the optimal settings for improved performance. 
-**Data Collection**: Consider gathering additional data points or features that may provide valuable insights into diabetes prediction, thereby enriching the dataset and potentially enhancing model accuracy. 
-**Validation**: Validate the logistic regression model on external datasets to assess its generalization capability and ensure robustness across different populations or demographics. 
-**Model Deployment**: Once satisfied with the model's performance, deploy it in a production environment to assist healthcare professionals in early diabetes detection and intervention strategies. Ensure regular monitoring and updates to adapt to evolving patient data and healthcare trends. 
+- **Feature Selection**: Given the importance of features such as Polydipsia, Polyuria, and Gender, focus on collecting and refining data related to these attributes to enhance the predictive power of the model. 
+- **Model Tuning**: Continue fine-tuning the logistic regression model with different regularization parameters to find the optimal settings for improved performance. 
+- **Data Collection**: Consider gathering additional data points or features that may provide valuable insights into diabetes prediction, thereby enriching the dataset and potentially enhancing model accuracy. 
+- **Validation**: Validate the logistic regression model on external datasets to assess its generalization capability and ensure robustness across different populations or demographics. 
+- **Model Deployment**: Once satisfied with the model's performance, deploy it in a production environment to assist healthcare professionals in early diabetes detection and intervention strategies. Ensure regular monitoring and updates to adapt to evolving patient data and healthcare trends. 
