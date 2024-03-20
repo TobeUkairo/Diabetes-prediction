@@ -50,9 +50,13 @@ This repository hosts a comprehensive machine learning project focused on predic
 
 ## Model Insights and Interpretation
 
-**Model Performance/ relults**:
+**Model Performance/ results**:
 
-The performance of four machine learning models—Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, and Support Vector Machine (SVM)—was evaluated on a dataset for predicting diabetes. Logistic Regression exhibited a training accuracy of 92.1% and a test accuracy of 91.0%, making it the preferred model due to its balance between training and test performance. KNN showed a slightly lower training accuracy of 91.4% and a test accuracy of 85.9%. The Decision Tree model achieved a perfect training accuracy of 100%, indicating potential overfitting, but performed well on the test set with an accuracy of 97.4%. SVM, however, showed a lower training accuracy of 60.6% and a test accuracy of 66.7%. Further evaluation of the Logistic Regression model with the best parameters (C=1, penalty='l2') resulted in an improved accuracy of 93.6% as well as 95% precision, 95% recall, and an F1-score of 95%. Feature importance analysis revealed significant contributions from attributes such as Polydipsia, Polyuria, and Gender, indicating their strong correlation with diabetes prediction.
+The performance of four machine learning models—Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, and Support Vector Machine (SVM)—was evaluated on a dataset for predicting diabetes. Logistic Regression exhibited a training accuracy of 92.1% and a test accuracy of 91.0%, making it the preferred model due to its balance between training and test performance. KNN showed a slightly lower training accuracy of 91.4% and a test accuracy of 85.9%. The Decision Tree model achieved a perfect training accuracy of 100%, indicating potential overfitting, but performed well on the test set with an accuracy of 97.4%. SVM, however, showed a lower training accuracy of 60.6% and a test accuracy of 66.7%. 
+
+Further evaluation of the Logistic Regression model with the best parameters (C=1, penalty='l2') resulted in an improved accuracy of 93.6% as well as 95% precision, 95% recall, and an F1-score of 95%. 
+
+Feature importance analysis revealed significant contributions from attributes such as Polydipsia, Polyuria, and Gender, indicating their strong correlation with diabetes prediction.
 
 ## Limitations and Future Work
 
