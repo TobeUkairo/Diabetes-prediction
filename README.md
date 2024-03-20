@@ -29,8 +29,6 @@ This repository hosts a comprehensive machine learning project focused on predic
   
 - The target column was slighly imbalanced with approximately 62% of the patients labelled positive.
 
-**Recommendation**: Focus on acquiring high-value brands and adjust pricing strategies based on age, mileage, and fuel type.
-
 
 ## Data Overview
 
